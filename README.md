@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @tainaedwigs
-- 👀 I’m interested in aprender programação e design;
+- 👀 I’m interested in learn programming and design;
 - 🌱 I am currently studying systems and digital media at the Federal University of Ceará;
